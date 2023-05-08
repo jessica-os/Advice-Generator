@@ -12,6 +12,8 @@ Este projeto ainda será atualizado com inserção de Javascript, para interativ
 - Responsividade
 - Efeitos com hover
 
-Veja como ficou:
+### Veja como ficou:
 
   <img src="./Readme-image/Peek 08-05-2023 07-47.gif" alt="Imagem da tela pronta">
+  
+  Para ver a página, [clique aqui](https://jessica-os.github.io/Advice-Generator/)
