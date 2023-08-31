@@ -3,7 +3,7 @@ Este desafio faz parte do curso Dev em Dobro, e também pode ser encontrado na p
 [CLIQUE AQUI](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) para conferir o desafio.
 
 ## Do que se trata esse desafio?
-Trata-se de um gerador de conselhos, utilizando a API Advice Slip.
+Trata-se de um gerador de conselhos, utilizando a API Advice Slip. <br>
 A cada clique no botão, o usuário tem acesso a um conselho aleatório.
 
 ## Habilidades desenvolvidas:
@@ -17,7 +17,7 @@ A cada clique no botão, o usuário tem acesso a um conselho aleatório.
 
 - CSS  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-- Javascript  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- JAVASCRIPT  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 
 ## Veja como ficou:
