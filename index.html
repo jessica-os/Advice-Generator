@@ -1,37 +1,56 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
-<link rel="shortcut icon" href="./images/favicon-32x32.png" type="image/x-icon"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      href="./images/favicon-32x32.png"
+      type="image/x-icon"
+    />
 
-<link rel="stylesheet" href="./css/reset.css">
-<link rel="stylesheet" href="./css/style.css">
-<link rel="stylesheet" href="./css/variables.css">
-<link rel="stylesheet" href="./css/responsive.css">
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/variables.css" />
+    <link rel="stylesheet" href="./css/responsive.css" />
 
-<title>Advice Generator</title>
-</head>
+    <title>Advice Generator</title>
+  </head>
 
-<body>
+  <body>
     <main class="container">
-        <div class="card"> 
-            <h3>ADVICE #117</h3>
-            <p>"It is easy to sit up and take notice, what's difficult
-                is getting up and taking action".
-            </p>
-            <picture>
-                <img class="divider" src="./images/pattern-divider-desktop.svg" alt="linha divisora">
-                <source class="divider" srcset="./src/images/pattern-divider-mobile.svg" media="(max-width: 768px)">
-            </picture>
-            <button class="button"><img class="image" src="./images/icon-dice.svg" alt="botao"></button>
-            
-        </div>    
-    </main>   
-</body>
+      <div class="card">
+        <h3 id="advice">ADVICE <span>#117</span></h3>
+        <p id="description">
+          "It is easy to sit up and take notice, what's difficult is getting up
+          and taking action".
+        </p>
+        <picture>
+          <img
+            class="divider"
+            src="./images/pattern-divider-desktop.svg"
+            alt="linha divisora"
+          />
+          <source
+            class="divider"
+            srcset="./src/images/pattern-divider-mobile.svg"
+            media="(max-width: 768px)"
+          />
+        </picture>
+        <button class="button" id="button">
+          <img class="image" src="./images/icon-dice.svg" alt="botao" />
+        </button>
+      </div>
+    </main>
+
+    <script src="./js/index.js"></script>
+  </body>
 </html>
